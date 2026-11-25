@@ -1,6 +1,6 @@
 cask "tern" do
-  version "0.1.5"
-  sha256 "d9e49cf576d952f0f9288991c13907b6598987e93a7abca07cbfb6faffe2166e"
+  version "0.1.6"
+  sha256 "5fed1399bdcf9ee992d5efcf96c196a7a415fa604450e67f88c7fd9d59f0869d"
 
   url "https://github.com/dominik-bura/tern/releases/download/v#{version}/Tern-#{version}.dmg"
   name "Tern"
